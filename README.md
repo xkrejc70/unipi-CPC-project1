@@ -1,4 +1,6 @@
 # unipi-CPC-project1
+Department of Computer Science, University of Pisa
+
 CPC - Competitive Programming and Contests - Project: Sliding Window Maximum problem
 
 Obtained points: 10/10
